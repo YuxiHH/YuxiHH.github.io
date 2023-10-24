@@ -43,4 +43,4 @@ News
 
 For more info
 ------
-
+<a href="https://clustrmaps.com/site/1bx2s"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=NK3zpad2ZF7RCQSI5F8vntYXfiLY9OanpFun4yWULZ0&cl=ffffff" /></a>
