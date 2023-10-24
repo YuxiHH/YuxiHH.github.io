@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science Ph.D. student in [SCAI](https://scai.engineering.asu.edu/) at Arizona State University(ASU), starting in the fall of 2023. My advisor is [Prof.Xusheng Xiao](https://xusheng-xiao.github.io/). Prior to that, I graduated from Cornell University in December 2022 with a master's degree, and I graduated from the University of Liverpool in the UK in June 2021 with a bachelor's degree.
+I am a computer science Ph.D. student in [SCAI](https://scai.engineering.asu.edu/) at Arizona State University(ASU), started in the fall of 2023. My advisor is [Prof.Xusheng Xiao](https://xusheng-xiao.github.io/). Prior to that, I graduated from Cornell University in December 2022 with a master's degree, and I graduated from the University of Liverpool in the UK in June 2021 with a bachelor's degree.
 
 Research Interests
 ======
