@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science Ph.D. student in [SCAI](https://scai.engineering.asu.edu/) at Arizona State University(ASU), started in the fall of 2023. My advisor is [Prof.Xusheng Xiao](https://xusheng-xiao.github.io/). Prior to that, I graduated from Cornell University in December 2022 with a master's degree, and I graduated from the University of Liverpool in the UK in June 2021 with a bachelor's degree.
+I am a Computer Science Ph.D. student in [SCAI](https://scai.engineering.asu.edu/) at Arizona State University(ASU), started in the fall of 2023, advised by [Prof.Xusheng Xiao](https://xusheng-xiao.github.io/). Prior to that, I graduated from Cornell University in December 2022 with a master's degree, and I graduated from the University of Liverpool,UK in June 2021 with a bachelor's degree.
 
 Research Interests
 ======
-My current research interests primarily revolve around Large Language modeLs(LLM), Machine Learning and Security(such as LLM for code and blockchain). 
+My current research interests primarily revolve around Large Language modeLs(LLM), ML, SE and Security. 
 If you would like to discuss potential research opportunities or simply connect, please feel free to reach out to me at yhuan504@asu.edu
 
 Experience
