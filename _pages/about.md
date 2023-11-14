@@ -24,9 +24,6 @@ Experience
  * Amazon Web Services  (May 2022 - August 2022 · Bellevue, WA, US)
 
 **Research Assistant**
- * Cornell University  (Sep 2021 - May 2022 · Ithaca, NY, US)
-
-**Research Assistant**
  * University of Liverpool  (Oct 2020 - May 2021 · Liverpool, UK)
 
 **Software Engineering Intern**
