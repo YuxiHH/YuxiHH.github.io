@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Yuxi Huang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
