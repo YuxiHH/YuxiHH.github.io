@@ -12,7 +12,7 @@ I am a Computer Science Ph.D. student in [SCAI](https://scai.engineering.asu.edu
 
 Research Interests
 ======
-My current research interests primarily revolve around AI, SE and Security. 
+My current research interests primarily revolve around AI, SE and Security (Such as LLM for Code and Smart Contracts Security). 
 If you would like to discuss potential research opportunities or simply connect, please feel free to reach out to me at yhuan504@asu.edu
 
 Experience
